@@ -1,0 +1,12 @@
+Team: 	Scotland
+Match Played: 	761
+Match Won: 	361
+Winning Percentage: 	47.43758%
+Match Lose: 	235
+Losing Percentage: 	30.88042%
+Match Tie: 	165
+Tie Percentage: 	21.681997%
+Goals Scored	1318
+Home Goals: 	710
+Away Goals: 	608
+Goals Conceded: 	930
